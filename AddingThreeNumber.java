@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class adding_three_number {
+public class AddingThreeNumber{
     public static void main(String[] args){
       //scanner input
         Scanner scanner = new Scanner(System.in);
