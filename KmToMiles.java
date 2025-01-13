@@ -12,5 +12,6 @@ public class KmToMiles {
         System.out.println("Here's the length in miles will be: " + miles);
 
         scanner.close();
+        
     }
 }
