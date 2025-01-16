@@ -19,5 +19,6 @@ public class AddingThreeNumber{
         System.out.println("The sum of the three numbers is: " + sum);
 
         scanner.close();
+        
     }
 }
