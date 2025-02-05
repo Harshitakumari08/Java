@@ -12,7 +12,6 @@ public class ReverseNaturalNumbersWhileLoop {
             System.out.print(n + " ");
             n--;
         }
-
         scanner.close();
     }
 }
