@@ -16,6 +16,7 @@ public class NaturalNumbersWhileLoop {
             i++;
         }
 
+        
         // Close the scanner
         scanner.close();
     }
